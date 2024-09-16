@@ -1,4 +1,10 @@
 
+<h1>Olá Mundo! :earth_americas: :computer: </h1> 
+
+<!--<h1>*Quem Sou*</h1> <br>-->
+👋 Olá! Sou desenvolvedora backend e ao longo da minha carreira, trabalhei em diversos projetos desafiadores, com forte experiência em Java. Gosto de me aventurar com os módulos do Spring Framework e criar APIs. <br>
+🎵 Quando não estou codificando, gosto de explorar novos gêneros musicais e mergulhar no universo dos videogames. Essas atividades me ajudam a relaxar e também alimentam minha criatividade e habilidades de resolução de problemas. <br>
+🚀 Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente. Vamos conectar e discutir como posso contribuir para o sucesso do seu projeto!<br>
 
 <!--
 ### Hi there 👋
